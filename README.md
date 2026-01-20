@@ -1,4 +1,4 @@
 # student
-AUTHOR ASYAbr
+AUTHOR ASYA
 <br>
 Demo project
